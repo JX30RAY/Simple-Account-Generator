@@ -9,6 +9,6 @@ Contact :
 
 Example Image : 
 
-![image](https://imgur.com/jDhKlcB)
+![image](https://i.imgur.com/jDhKlcB.png)
 
 Thanks.
