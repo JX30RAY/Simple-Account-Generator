@@ -11,4 +11,10 @@ Example Image :
 
 ![image](https://i.imgur.com/jDhKlcB.png)
 
+Messages :
+If there is a bug, please report it.
+
 Thanks.
+
+Regard,
+NinjaGhost.
