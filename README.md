@@ -1,4 +1,4 @@
-# AccountGeneratorV3.0
+# Account Generator Premium V3.0
 This software account generator created by DrWeabo ( NinjaGhost ) 
 
 Contact :
