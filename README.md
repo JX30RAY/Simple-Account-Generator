@@ -13,9 +13,8 @@ Example Image :
 
 ![image](https://i.imgur.com/jDhKlcB.png)
 
-Username : DrWeabo
-
-Password : 8M4YLJnRIgejztz
+- Username : DrWeabo
+- Password : 8M4YLJnRIgejztz
 
 Messages :
 If there is a bug, please report it.
