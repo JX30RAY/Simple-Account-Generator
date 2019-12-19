@@ -1,4 +1,4 @@
-# AccountGeneratorV2.0
+# AccountGeneratorV3.0
 This software account generator created by DrWeabo ( NinjaGhost ) 
 
 Contact :
@@ -9,12 +9,15 @@ Contact :
 
 Example Image : 
 
+![image](https://imgur.com/a/ZGfsJwF)
+
 ![image](https://i.imgur.com/jDhKlcB.png)
+
+Username : DrWeabo
+Password : 8M4YLJnRIgejztz
 
 Messages :
 If there is a bug, please report it.
 
-Thanks.
-
 Regard,
-NinjaGhost.
+DrWeabo.
