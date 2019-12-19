@@ -14,7 +14,7 @@ Example Image :
 ![image](https://i.imgur.com/jDhKlcB.png)
 
 - Username : DrWeabo
-- Password : 8M4YLJnRIgejztz
+- Password : Ask me on Discord ( DrWeabo#3836 )
 
 Messages :
 If there is a bug, please report it.
