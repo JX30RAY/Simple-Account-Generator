@@ -11,6 +11,8 @@ Example Image :
 
 ![image](https://i.imgur.com/ki1SaHf.png)
 
+![image](https://cdn.discordapp.com/attachments/530205261126828033/657106380087361537/SPOILER_unknown.png)
+
 ![image](https://i.imgur.com/jDhKlcB.png)
 
 - Username : DrWeabo
