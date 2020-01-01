@@ -3,7 +3,7 @@ This software account generator created by DrWeabo ( NinjaGhost )
 
 Contact :
 
-- Facebook : www.facebook.com/kausar.lol
+- Facebook : www.facebook.com/kausar.lol // www.facebook.com/drweabo
 - Instagram : www.instagram.com/kausar.lol // www.instagram.com/drweabo
 - Youtube : www.youtube.com/c/DrWeabo
 
