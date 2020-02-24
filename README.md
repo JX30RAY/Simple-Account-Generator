@@ -3,8 +3,8 @@ This software account generator created by DrWeabo ( NinjaGhost )
 
 Contact :
 
-- Facebook : www.facebook.com/kausar.lol // www.facebook.com/drweabo
-- Instagram : www.instagram.com/kausar.lol // www.instagram.com/drweabo
+- Facebook : www.facebook.com/DrWeabo
+- Instagram : www.instagram.com/DrWeabo
 - Youtube : www.youtube.com/c/DrWeabo
 
 Example Image : 
