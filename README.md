@@ -21,5 +21,4 @@ Example Image :
 Messages :
 If there is a bug, please report it.
 
-Regard,
-DrWeabo.
+© 2020 Copyright: DrWeabo Inc.
