@@ -5,7 +5,7 @@ Contact :
 
 - Facebook : www.facebook.com/DrWeabo
 - Instagram : www.instagram.com/DrWeabo
-- Youtube : www.youtube.com/c/DrWeabo
+- Youtube : www.youtube.com/DrWeabo
 
 Example Image : 
 
