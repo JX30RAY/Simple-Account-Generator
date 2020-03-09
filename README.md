@@ -15,7 +15,7 @@ Example Image :
 ![image](https://cdn.discordapp.com/attachments/530205261126828033/657106380087361537/SPOILER_unknown.png)
 
 - Username : DrWeabo
-- Password : Ask me on Discord ( DrWeabo#6666 ) or Check on video https://youtu.be/6LRtk5Hy6bI
+- Password : Ask me on Discord ( DrWeabo#6666 ) or Check on video https://youtu.be/6LRtk5Hy6bI ( v2.0 )
 
 Messages :
 If there is a bug, please report it.
