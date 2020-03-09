@@ -3,9 +3,10 @@ This software account generator created by DrWeabo ( NinjaGhost )
 
 Contact :
 
-- Facebook : www.facebook.com/DrWeabo
-- Instagram : www.instagram.com/DrWeabo
-- Youtube : www.youtube.com/DrWeabo
+- Instagram : https://www.instagram.com/DrWeabo
+- Youtube : https://www.youtube.com/DrWeabo
+- Twitter : https://www.twitter.com/DrWeabo
+- Discord : https://discord.DrWeabo.com
 
 Example Image : 
 
