@@ -7,6 +7,8 @@ Contact :
 - Youtube : https://www.youtube.com/DrWeabo
 - Twitter : https://www.twitter.com/DrWeabo
 - Discord : https://discord.DrWeabo.com
+- Web Forum : https://forum.drweabo.com
+- Website : https://www.DrWeabo.com
 
 Example Image : 
 
