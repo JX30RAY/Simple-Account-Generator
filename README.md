@@ -1,5 +1,5 @@
 # Account Generator Premium V3.0
-This software account generator created by DrWeabo ( NinjaGhost ) 
+This software account generator created by DrWeabo
 
 Contact :
 
