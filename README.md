@@ -19,6 +19,9 @@ Example Image :
 - Username : DrWeabo
 - Password : Ask me on Discord ( DrWeabo#6666 ) or Check on video https://youtu.be/pS6UCw7_toE ( v3.0 )
 
+Others Tutorials :
+- Forum : https://forum.drweabo.com/showthread.php?tid=14
+
 Messages :
 If there is a bug, please report it.
 
