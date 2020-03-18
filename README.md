@@ -23,6 +23,6 @@ Others Tutorials :
 - Forum : https://forum.drweabo.com/showthread.php?tid=14
 
 Messages :
-If there is a bug, please report it.
+If there is a bug, please report it & If there is no account that can, please contact the admin, then the admin will add more stock ... but please be patient if you want to get new again! or no admin will not respond again!
 
 © 2020 Copyright: DrWeabo Inc.
